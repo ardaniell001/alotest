@@ -2,5 +2,5 @@
 This is the project to complete AloDokter assignment
 
 please use this username and password to login
-\nusername : user,
-\npassword : 123456
+username : user,
+password : 123456
